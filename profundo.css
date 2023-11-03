@@ -1,7 +1,26 @@
-h1{
+.aling-center{
     text-align: center;
 }
 h2{
     text-align: center;
 }
-
+.centrado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.d-flex{
+    display: flex;
+}
+.offcanvas-link{
+    color: black;
+}
+.offcanvas-link:hover{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+#menu{
+    background-color: rgb(220, 123, 4);
+}
