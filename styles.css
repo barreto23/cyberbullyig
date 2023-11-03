@@ -3,12 +3,23 @@
     justify-content: center;
     align-items: center;
 }
+h2{
+    margin: 15px;
+}
 .d-flex{
     display: flex;
 }
 .offcanvas-link{
     color: black;
+    text-decoration: none;
 }
 .offcanvas-link:hover{
     color: black;
+}
+.hero{
+    align-items: center;
+    justify-content: center;
+}
+.text-aling-center{
+    text-align: center;
 }
